@@ -12,7 +12,7 @@ The application will be used by the account’s admin of the company.
 
 **SAMPLE OUTPUT SCREEN**
 
-![TaxManagementSystem-TaxClaim](/images/TMS.png)
+![TaxManagementSystem-TaxClaim](Tax_Management_System/images/TMS.png)
 
 **Internationalization**
 
